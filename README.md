@@ -5,4 +5,5 @@
 - ⚡ Fun fact: I enjoy coding
 
 My
-![Linkedin](https://raw.githubusercontent.com/Calummmm/READ.ME/main/images/linkedin.png)
+[![Linkedin](/Calummmm/READ.ME/main/images/linkedin.png)][1]
+[1]: https://www.linkedin.com/in/callum-middlemist-9651bb23a/
