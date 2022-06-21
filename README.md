@@ -4,6 +4,7 @@
 - 📫 How to reach me: callummiddlemist@hotmail.com
 - ⚡ Fun fact: I enjoy coding
 
-
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[1]: https://www.linkedin.com/in/callum-middlemist-9651bb23a/
+<br>
+<b>Connect with me here:</b>
+<br><br>
+<a href="https://www.linkedin.com/in/callum-middlemist-9651bb23a/"><img align="left" src="https://github.com/Callummmm/Callummmm/blob/main/images/linkedin.png" alt="Linkedin" width="50px"/></a>
